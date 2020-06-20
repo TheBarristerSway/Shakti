@@ -3,7 +3,18 @@
 Multi thread And Single thread google dorker written in bash
 
 ![](header1.png)
-
+#Features:
+>Easy to install ICT-Setup.sh
+>Easy to use
+>best for beginner 
+>you can easily search queries 
+>fastest 
+>work anywhere 
+>single thread dorker
+>multi thread dorker
+>Automatically Install using one command 🤠
+#Installation :
+> For linux and Termux there are different Options in Dorker kindly choose correct option
 ## Command to run on Termux 
 
 
@@ -17,7 +28,7 @@ cd Shakti
 chmod +x *
 ```
 ```
-sh setup.sh
+sh ICT-Setup.sh
 ```
 
 
@@ -37,7 +48,7 @@ chmod +x *
 ```
 
 ```
-sh setup.sh
+sh ICT-Setup.sh
 ```
 
 
@@ -66,11 +77,18 @@ apt-get upgrade -y
 ```
 chmod +x *
 ```
+>Automatical Installation 
 ```
-sh setup.sh
+sh ICT-Setup.sh
 ```
 
 ## Contact Us: 
+>Facebook:
 https://facebook.com/indiancybertroops
+>Instagram
 https://instagram.com/indiancybertroops
+>Twitter
 https://twitter.com/indiancybertroops
+>Github
+https://github.com/indiancybertroops
+
