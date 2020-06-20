@@ -4,17 +4,30 @@ Multi thread And Single thread google dorker written in bash
 
 ![](header1.png)
 
+.
 
 #Features:
+
 >Easy to install ICT-Setup.sh
+
+
 >Easy to use
+
 >best for beginner 
+
 >you can easily search queries 
->fastest 
+
+>fastest Dorking
+
 >work anywhere 
+
 >single thread dorker
+
 >multi thread dorker
+
 >Automatically Install using one command 🤠
+
+
 #Installation :
 > For linux and Termux there are different Options in Dorker kindly choose correct option
 ## Command to run on Termux 
