@@ -1,0 +1,2 @@
+inurl:admin/login.php site:pk
+inurl:php?id= site:pk
